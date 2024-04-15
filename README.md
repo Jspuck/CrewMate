@@ -1,6 +1,6 @@
 # Web Development Project 7 - *Name of App Here*
 
-Submitted by: **Eric**
+Submitted by: **Jarett**
 
 This web app: **CrewMate**
 
